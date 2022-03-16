@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sourav Das</h1>
 <h3 align="center">A passionate Full Stack MERN developer from India</h3>
-
+<h6>Passionate and self-motivated aspiring full-stack
+developer. Specialization in MERN stack with a keen
+interest in learning and working with new technology.
+Looking forward to working with new technologies and
+solving problems with a team. Love to work on
+different challenging projects.
+</h6>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourav12061999&label=Profile%20views&color=0e75b6&style=flat" alt="sourav12061999" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourav12061999" alt="sourav12061999" /></a> </p>
