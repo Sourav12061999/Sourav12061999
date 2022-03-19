@@ -9,7 +9,7 @@ different challenging projects.
 </h6>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourav12061999&label=Profile%20views&color=0e75b6&style=flat" alt="sourav12061999" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourav12061999" alt="sourav12061999" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sourav12061999" alt="sourav12061999" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
