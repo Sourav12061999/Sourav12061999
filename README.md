@@ -15,11 +15,11 @@ different challenging projects.
 
 - 🌱 I’m currently learning **Solidity and Blockchain and GraphQL**
 
-- 👨‍💻 All of my projects are available at [https://portfolio2-kohl-sigma.vercel.app/](https://portfolio2-kohl-sigma.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://myportfolio-sigma-sand.vercel.app/)
 
 - 💬 Ask me about **DSA, Algo, MERN, Next.js**
 
-- 📫 How to reach me **sd12062020@gmail.com**
+- 📫 How to reach me **sourav.das120699@gmail.com.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1EZn9ejpVo-lxYw8MooxNgXuA4DcD4CjA/view?usp=sharing](https://drive.google.com/file/d/1EZn9ejpVo-lxYw8MooxNgXuA4DcD4CjA/view?usp=sharing)
 
