@@ -21,7 +21,7 @@ different challenging projects.
 
 - 📫 How to reach me **sourav.das120699@gmail.com.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EZn9ejpVo-lxYw8MooxNgXuA4DcD4CjA/view?usp=sharing](https://drive.google.com/file/d/1EZn9ejpVo-lxYw8MooxNgXuA4DcD4CjA/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1ZVl01QNQjuq1yfuX_B-2mYQS1Te6Pyt9?usp=sharing)
 
 - ⚡ Fun fact **I love watching Documentaries**
 
